@@ -25,6 +25,9 @@ html {
 }
 
 body {
+  color: #444;
+  background-color: #fffef9;
+
   margin: 0;
   padding-right: ($spacing-unit * 2);
   padding-left: ($spacing-unit * 2);
@@ -43,6 +46,46 @@ a {
 img {
   max-width: 100%;
   vertical-align: bottom;
+}
+
+
+/*----- Site title and description -----*/
+
+header {
+  margin-top: 27vh;
+  margin-bottom: 47vh;
+}
+
+.site-title {
+  font-family: 'Source Sans Pro', sans-serif;
+  margin-top: 2rem;
+  display: block;
+  text-align: center;
+}
+
+.site-title > span {
+  border-bottom: 5px dotted #eee;
+  padding-bottom: 0.4rem;
+}
+
+@media (max-width: $mq-sm) {
+  .site-title {
+    font-size: 1.6rem;
+  }
+}
+
+.site-desc {
+  margin: 0 auto;
+  margin-top: 3rem;
+  max-width: 400px;
+  text-align: justify;
+}
+
+.librairie-lien {
+  margin: 0 auto;
+  margin-top: 3rem;
+  max-width: 400px;
+  text-align: right;
 }
 
 
@@ -146,4 +189,5 @@ img {
 .footer {
   margin-bottom: 100px;
   text-align: center;
+  opacity: 0.3;
 }
