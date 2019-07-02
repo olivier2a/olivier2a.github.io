@@ -2,8 +2,7 @@
   author: Léon Bloy
   image: exegese des lieux communs.jpg
   link: https://amzn.to/2JfAmnw
-  isbn: "ISBN : 978-3456-45-677"
-
+  
 - title: Atala, illustrations de Gustave Doré 
   author: Chateaubriand
   image: atala.jpg
@@ -18,6 +17,7 @@
   author: Gustave Le Bon
   image: la psychologie des foules bod.jpg
   link: https://amzn.to/2IZ1us3
+  isbn: "ISBN : 978-2322146352"
 
 - title: Napoléon
   author: Jacques Bainville
@@ -33,16 +33,18 @@
   author: Georges Bernanos 
   image: la france contre les robots bod.jpg
   link: https://amzn.to/2IZhrP6
+  isbn: "ISBN : 978-2322171613"
 
 - title: Les exploits du colonel Gérard 
   author: Arthur Conan Doyle 
   image: les exploits du colonel gerard.jpg
   link: https://amzn.to/2Jcek5b
+  isbn: "ISBN : 978-2322081417"
 
 - title: Le Corbeau
   author: "Edgar Allan Poe, Baudelaire, Mallarmé et Gustave Doré"
   image: le corbeau.jpg
-  link: Empty
+  link: https://amzn.to/2FKTlpg
 
 - title: "Roland furieux (tome I)-  Poème héroïque"
   author: "Ludovico Ariosto, dit « l'Arioste »"
@@ -75,7 +77,7 @@
   link: https://amzn.to/2Xanap3
 
 - title: "Le tour du monde en 80 jours: le pari de Phileas Fogg"
-  author: Jules Vernes
+  author: Jules Verne
   image: le tour du monde en 80 jours.jpg
   link: https://amzn.to/2YkWvr3
 
@@ -93,12 +95,12 @@
   author: Paul Valéry 
   image: regards sur le monde actuel bod.jpg
   link: https://amzn.to/2Xhpef6
+  isbn: 
 
 - title: "L'enfer: Rivarol et Gustave Doré"
   author: Dante
   image: l'enfer.jpg
   link: https://amzn.to/2IWVkc2
-
 
 - title: "Le grand Napoléon: illustré par JOB"
   author: Jacques Onfroy de Bréville (JOB)
@@ -106,7 +108,7 @@
   link: https://amzn.to/2X8Ic7n
 
 - title: "L'Art de Devenir Député: et même Ministre par un oisif qui n'est ni l'un ni l'autre."
-  author: Empty
+  author: François Groiseilliez
   image: l'art de devenir deputé.jpg
   link: https://amzn.to/2xvxnCd
 
@@ -119,6 +121,7 @@
   author: Paul Valéry
   image: la crise de l'esprit et et et bod.jpg
   link: https://amzn.to/2LtepnI
+  isbn: "
 
 - title: "Qu'est-ce qu'une nation ?"
   author: Ernest Renan
@@ -139,6 +142,7 @@
   author: Arthur Conan Doyle 
   image: ma vie aventureuse.jpg
   link: https://amzn.to/2IYicrr
+  isbn: "ISBN : 978-2322044788"
 
 - title: Mandalas originaux pour se relaxer
   author: Empty
@@ -148,7 +152,8 @@
 - title: Histoire de France (illustrations en couleur)
   author: Jacques Bainville et JOB
   image: histoire de france bod.jpg
-  link: Empty
+  link: https://amzn.to/2LF7Rmj
+  isbn: "ISBN : 978-2322144471"
 
 - title: Histoire de France illustrée 
   author: Jacques Bainville et Job (Jacques Onfroy de Bréville) 
@@ -174,6 +179,7 @@
   author: Jacques Bainville et JOB (Jacques Onfroy de Bréville)
   image: napoleon bod.jpg
   link: https://amzn.to/2ROhfoG
+  isbn: "ISBN : 978-2322144495"
 
 - title: "Roland furieux (tome II): Poème héroïque"
   author: L'Arioste
@@ -189,6 +195,7 @@
   author: "Jacques Bainville et Jacques Onfroy de Bréville (JOB)" 
   image: petite histoire de france bod.jpg
   link: https://amzn.to/2Jf4DTx
+  isbn: "ISBN : 978-2322144471"
 
 - title: L'Âme Russe
   author: "Tourgueneff, Tolstoï, Dostoïevsky..."
@@ -209,6 +216,7 @@
   author: Charles Maurras
   image: l'avenir de l'intelligence kdp.jpg
   link: https://amzn.to/2FG9nk2
+  isbn: "ISBN : 978-2322084371"
 
 - title: La chanson de vieux époux
   author: Pierre Loti et Henry Somm
@@ -224,6 +232,7 @@
   author: Arthur Conan Doyle 
   image: les aventures du brigadier gerard.jpg
   link: https://amzn.to/2JiJGat
+  isbn: "ISBN : 978-2322081202"
 
 - title: La chevalerie
   author: Léon Gautier 
@@ -239,6 +248,7 @@
   author: Arthur Conan Doyle 
   image: exploits et aventures du colonel gérard.jpg
   link: https://amzn.to/2RKlAJx
+  isbn: "ISBN : 978-2322152438"
 
 - title: L'Ancien régime et la Révolution 
   author: Alexis de Tocqueville 
@@ -263,7 +273,7 @@
 - title: "Maximes, Pensées et Réflexions: de Napoléon 1er, de sa jeunesse au jour de sa mort"
   author: Napoléon 1er
   image: maxime pensees et reflexions.jpg
-  link: Empty
+  link: https://amzn.to/2Xc9utD
 
 - title: La chasse au mouflon
   author: Emile Bergerat
@@ -294,11 +304,7 @@
   author: Jacques Voragine 
   image: la égende dorée.jpg.jpg
   link: https://amzn.to/2LtwK46
-
-- title: "Le rôle social de l'officier : Un essai d'actualité" 
-  author: Maréchal Lyautey
-  image: le role social de l'officier bod.jpg
-  link: https://amzn.to/2RNM9NN
+  isbn: "ISBN : 978-2322034567"
 
 - title: Le manifeste du parti communiste 
   author: Marx et Hegels
@@ -314,16 +320,12 @@
   author: Charles Maurras
   image: l'avenir de l'intelligence bod.jpg
   link: https://amzn.to/2FG9nk2
+  isbn: "ISBN : 978-2322084371"
 
-- title: Empty
-  author: Empty
-  image: traité sur la tolerance 2.jpg
-  link: Empty
-
-- title: Empty
-  author: Empty
+- title: Le rôle social de l'officier : Un essai d'actualité 
+  author: Maréchal Lyautey
   image: le role social de l'officier kdp.jpg
-  link: Empty
+  link: https://amzn.to/2RNM9NN
 
 - title: Les aventures du Baron de Münchhausen
   author: "traduites par Théophile Gautier (fils) et illustrées par Gustave Doré"
