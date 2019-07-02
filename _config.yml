@@ -2,10 +2,17 @@
 title: Les Éditions AOJB
 email: your-email@domain.com
 description: >
-  je suis AOJB 
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Les Editions AOJB ont été créées dans le but de mettre à la disposition
+  des amateurs des ouvrages qui pour la plus grande part n'étaient plus publiés où
+  alors soit dans des formats poches soit dans des éditions hors de prix.
+  Pour maintenir des coûts raisonnables dans un esprit "culture pour tous", nous
+  avons choisis une publication à la demande (économie et écologie) et une publication numérique de qualité.
+  Aussi les livres pour lesquels nous vous indiquons l'ISBN sont disponibles 
+  à la commande auprès d'Amazon, de la Fnac, de Cultura... et bien sûr de votre 
+  libraire préféré (commande via le réseau Dilicom).
+  Les autres ne sont aujourd'hui disponibles que sur les sites d'Amazon pour des
+  raisons de coût ou de format.
+  Bonne lecture à tous et merci.
 baseurl: ""
 image: utopie.jpg
 url: "https://amzn.to/2JgHznh"
