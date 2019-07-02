@@ -112,7 +112,12 @@
   author: "Ludovico Ariosto, dit « l'Arioste »"
   image: roland furieux 1.jpg
   link: https://amzn.to/2Yi3dxT
-
+  
+- title: "Roland furieux (tome II): Poème héroïque"
+  author: L'Arioste
+  image: roland furieux 2.jpg
+  link: https://amzn.to/2RHrY44
+  
 - title: "Chut !... Shocking!"
   author: comtesse de Mirabeau 
   image: chut shoking.jpg
@@ -128,11 +133,6 @@
   image: l'appel des armes.jpg
   link: https://amzn.to/2IYLZ3f
 
-- title: Le cheval 
-  author: Caran d’Ache 
-  image: le cheval.jpg
-  link: https://amzn.to/2XiVVNK
-
 - title: Traité sur la tolérance
   author: Voltaire
   image: traité sur la tolérance.jpg
@@ -147,11 +147,6 @@
   author: Friedrich Nietzsche
   image: le gai savoir.jpg
   link: https://amzn.to/2IXDllI
-
-- title: Les Poilus à travers les âge
-  author: Henriot
-  image: les poilus à travers les ages.jpg
-  link: https://amzn.to/2xrqEsB
 
 - title: "L'enfer: Rivarol et Gustave Doré"
   author: Dante
@@ -212,11 +207,6 @@
   author: Alphonse Daudet 
   image: les lettres de mon moulin.jpg
   link: https://amzn.to/2xkHcCH
-
-- title: "Roland furieux (tome II): Poème héroïque"
-  author: L'Arioste
-  image: roland furieux 2.jpg
-  link: https://amzn.to/2RHrY44
 
 - title: "La grève des électeurs: suivi de Réflexions sur la Politique de J. Bainville"
   author: Octave Mirbeau et Jacques Bainville
@@ -298,11 +288,6 @@
   image: utopie.jpg
   link: https://amzn.to/2xjdb6e
 
-- title: Murat
-  author: Montorgueil et JOB
-  image: murat.jpg
-  link: https://amzn.to/2YkWiUN
-
 - title: "Don Quichotte: 30 pages et 7 illustrations pour découvrir ce personnage mythique"
   author: Empty
   image: don quichotte.jpg
@@ -312,11 +297,6 @@
   author: Marx et Engel
   image: le manifeste du parti communiste.jpg
   link: https://amzn.to/2X7KAva
-
-- title: "La France contre les robots : Civilisation et technologie"
-  author: Georges Bernanos 
-  image: la france contre les robot kdp.jpg.jpg
-  link: https://amzn.to/2IZhrP6
 
 - title: "Le rôle social de l'officier : Un essai d'actualité" 
   author: Maréchal Lyautey
@@ -343,11 +323,21 @@
   image: souvenirs of the american army in france.jpg
   link: https://amzn.to/2XbTA2r
 
+- title: Le cheval 
+  author: Caran d’Ache 
+  image: le cheval.jpg
+  link: https://amzn.to/2XiVVNK
+  
+- title: Murat
+  author: Montorgueil et JOB
+  image: murat.jpg
+  link: https://amzn.to/2YkWiUN
+  
+- title: Les Poilus à travers les âge
+  author: Henriot
+  image: les poilus à travers les ages.jpg
+  link: https://amzn.to/2xrqEsB
 
-  
-  
-  
-  
   
   
   
