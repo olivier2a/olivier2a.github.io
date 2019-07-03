@@ -12,6 +12,9 @@ layout: home
     <div class="book-info">
       <h2>{{ book.title }}</h2>
       <p>{{ book.author }}</p>
+      {% if book.isbn %}
+      <p class="isbn">ISBN {{ book.isbn }}</p>
+      {% endif %}
     </div>
   </article>
   {% endfor %}

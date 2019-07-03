@@ -52,8 +52,8 @@ img {
 /*----- Site title and description -----*/
 
 header {
-  margin-top: 27vh;
-  margin-bottom: 47vh;
+  margin-top: 12vh;
+  margin-bottom: 20vh;
 }
 
 .site-title {
@@ -72,12 +72,16 @@ header {
   .site-title {
     font-size: 1.6rem;
   }
+  header {
+    margin-top: 0;
+    margin-bottom: 0vh;
+  }
 }
 
 .site-desc {
   margin: 0 auto;
   margin-top: 3rem;
-  max-width: 400px;
+  max-width: 450px;
   text-align: justify;
 }
 
@@ -181,6 +185,12 @@ header {
           flex: 1;
   border-top: 5px solid #eee;
   padding: ($spacing-unit * 2);
+}
+
+img { border: 2px solid #666 }
+.isbn {
+  color: #aaa;
+  font-size: 0.6rem;
 }
 
 
